@@ -6,7 +6,7 @@ sonarqubeScanner({
 	    'sonar.projectDescription': 'This is a Node JS application',
 	    'sonar.projectName': 'Node JS Application - Sample',
 	    'sonar.projectKey':'NodeJsAcadalearning',
-	    'sonar.login': 'squ_f8a1a6348bee92b056a6901826b5fd602d4bfd57',
+	    'sonar.login': 'squ_2634cb6bf43dc27fb0e482f76557731b333660eb',
 	    //'sonar.password': 'admin',
             'sonar.projectVersion':'1.0',
 	    'sonar.language':'js',
