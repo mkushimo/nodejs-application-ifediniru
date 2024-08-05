@@ -1,4 +1,4 @@
-registry=http://nexus:8081/repository/acada-nodejs/
+registry=http://nexus:8081/repository/phb-app/
 email=k@gmail.com
 always-auth=true
-//nexus:8081/repository/acada-nodejs/:_auth="YWRtaW46cm9vdA=="
+//nexus:8081/repository/phb-app/:_auth="YWRtaW46YWRtaW4xMjM="
